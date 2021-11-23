@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class advent2020day1 {
     public static void main(String[] args){
